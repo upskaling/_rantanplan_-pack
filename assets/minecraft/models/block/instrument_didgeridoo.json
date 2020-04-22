@@ -1,0 +1,6 @@
+{
+	"parent": "block/instrument",
+	"textures": {
+		"instrument": "block/instrument_didgeridoo"
+    }
+}

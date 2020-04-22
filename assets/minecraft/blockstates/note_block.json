@@ -1,0 +1,155 @@
+{
+    "multipart": [
+    	{
+    		"apply": { "model":"block/note_block" }
+    	},
+    	{
+    		"when":{"instrument":"bass"},
+    		"apply":{"model":"block/instrument_bass"}
+    	},
+    	{
+    		"when":{"instrument":"snare"},
+    		"apply":{"model":"block/instrument_snare"}
+    	},
+    	{
+    		"when":{"instrument":"hat"},
+    		"apply":{"model":"block/instrument_hat"}
+    	},
+    	{
+    		"when":{"instrument":"basedrum"},
+    		"apply":{"model":"block/instrument_basedrum"}
+    	},
+    	{
+    		"when":{"instrument":"bell"},
+    		"apply":{"model":"block/instrument_bell"}
+    	},
+    	{
+    		"when":{"instrument":"flute"},
+    		"apply":{"model":"block/instrument_flute"}
+    	},
+    	{
+    		"when":{"instrument":"chime"},
+    		"apply":{"model":"block/instrument_chime"}
+    	},
+    	{
+    		"when":{"instrument":"guitar"},
+    		"apply":{"model":"block/instrument_guitar"}
+    	},
+    	{
+    		"when":{"instrument":"xylophone"},
+    		"apply":{"model":"block/instrument_xylophone"}
+    	},
+    	{
+    		"when":{"instrument":"harp"},
+    		"apply":{"model":"block/instrument_harp"}
+    	},
+    	{
+    		"when":{"instrument":"iron_xylophone"},
+    		"apply":{"model":"block/instrument_iron_xylophone"}
+    	},
+    	{
+    		"when":{"instrument":"cow_bell"},
+    		"apply":{"model":"block/instrument_cow_bell"}
+    	},
+    	{
+    		"when":{"instrument":"didgeridoo"},
+    		"apply":{"model":"block/instrument_didgeridoo"}
+    	},
+    	{
+    		"when":{"instrument":"bit"},
+    		"apply":{"model":"block/instrument_bit"}
+    	},
+    	{
+    		"when":{"instrument":"banjo"},
+    		"apply":{"model":"block/instrument_banjo"}
+    	},
+    	{
+    		"when":{"instrument":"pling"},
+    		"apply":{"model":"block/instrument_pling"}
+    	},
+
+
+
+
+
+
+
+
+	    {
+	    	"when":{"note":0},
+	    	"apply":{"model":"block/note_0"}
+		},	    {
+	    	"when":{"note":1},
+	    	"apply":{"model":"block/note_1"}
+		},	    {
+	    	"when":{"note":2},
+	    	"apply":{"model":"block/note_2"}
+		},	    {
+	    	"when":{"note":3},
+	    	"apply":{"model":"block/note_3"}
+		},	    {
+	    	"when":{"note":4},
+	    	"apply":{"model":"block/note_4"}
+		},	    {
+	    	"when":{"note":5},
+	    	"apply":{"model":"block/note_5"}
+		},	    {
+	    	"when":{"note":6},
+	    	"apply":{"model":"block/note_6"}
+		},	    {
+	    	"when":{"note":7},
+	    	"apply":{"model":"block/note_7"}
+		},	    {
+	    	"when":{"note":8},
+	    	"apply":{"model":"block/note_8"}
+		},	    {
+	    	"when":{"note":9},
+	    	"apply":{"model":"block/note_9"}
+		},	    {
+	    	"when":{"note":10},
+	    	"apply":{"model":"block/note_10"}
+		},	    {
+	    	"when":{"note":11},
+	    	"apply":{"model":"block/note_11"}
+		},	    {
+	    	"when":{"note":12},
+	    	"apply":{"model":"block/note_12"}
+		},	    {
+	    	"when":{"note":13},
+	    	"apply":{"model":"block/note_13"}
+		},	    {
+	    	"when":{"note":14},
+	    	"apply":{"model":"block/note_14"}
+		},	    {
+	    	"when":{"note":15},
+	    	"apply":{"model":"block/note_15"}
+		},	    {
+	    	"when":{"note":16},
+	    	"apply":{"model":"block/note_16"}
+		},	    {
+	    	"when":{"note":17},
+	    	"apply":{"model":"block/note_17"}
+		},	    {
+	    	"when":{"note":18},
+	    	"apply":{"model":"block/note_18"}
+		},	    {
+	    	"when":{"note":19},
+	    	"apply":{"model":"block/note_19"}
+		},	    {
+	    	"when":{"note":20},
+	    	"apply":{"model":"block/note_20"}
+		},	    {
+	    	"when":{"note":21},
+	    	"apply":{"model":"block/note_21"}
+		},	    {
+	    	"when":{"note":22},
+	    	"apply":{"model":"block/note_22"}
+		},	    {
+	    	"when":{"note":23},
+	    	"apply":{"model":"block/note_23"}
+		},	    {
+	    	"when":{"note":24},
+	    	"apply":{"model":"block/note_24"}
+		}
+	]
+}

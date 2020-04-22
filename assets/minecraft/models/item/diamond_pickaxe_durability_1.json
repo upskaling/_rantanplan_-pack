@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/diamond_pickaxe_durability_1"
+  }
+}
