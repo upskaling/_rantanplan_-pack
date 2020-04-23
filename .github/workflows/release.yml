@@ -27,7 +27,7 @@ jobs:
       run: |
         cd "${GITHUB_WORKSPACE}"
         echo "Building resource pack zip"
-        zip _rantanplan_pack.zip pack.mcmeta pack.png assets
+        zip -R _rantanplan_pack.zip pack.mcmeta pack.png assets
         ls
         
     - uses: actions/upload-artifact@v1
