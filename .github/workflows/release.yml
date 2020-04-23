@@ -33,4 +33,4 @@ jobs:
     - uses: actions/upload-artifact@v1
       with:
         name: _rantanplan_pack.zip
-        path: "${GITHUB_WORKSPACE}/_rantanplan_pack.zip"
+        path: "_rantanplan_pack.zip"
